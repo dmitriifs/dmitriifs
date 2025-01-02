@@ -14,12 +14,11 @@
 #### 📚 [Data analyst portfolio (ru)](https://github.com/dmitriifs/data_analyst_portfolio)
 
  - [Python](https://github.com/dmitriifs/data_analyst_portfolio/tree/main/python)
- - [SQL](https://github.com/dmitriifs/data_analyst_portfolio/tree/main/sql)
  - [BI](https://github.com/dmitriifs/data_analyst_portfolio/tree/main/bi)
 
 #### 🏢 Work experience
-| Job position         | Company          | Department \ Division       |  Tech stack     |  Work period       |
+| Job position         | Company          | Department \ Division       |  Work period   |    Tech stack    |
 |:---------------------|:-----------------|:----------------------------|:------------------|:------------------|
-| System Analyst | Nestlé           | Sales Dpt. \ Reporting Div. | 08.2024 - present | 08.2024 - present |
-| Sales Suppor Analyst | Nestlé           | Sales Dpt. \ Reporting Div. | 04.2024 - 08.2024 |
-| Engineer geologist| PK i BZ| Engineering surveys | 02.2022 - 06.2024 | 02.2022 - 06.2024 |
+| Process Support Specialist | Yandex Crowd           |Project support service | 06.2024 - present | Python, DataLens, Excel, YQL |
+| Engineer geologist| PK i BZ| Engineering surveys | 02.2021 - 06.2024 | Microsoft Office, ArcGIS, AutoCAD, QGIS |
+| Project manager| Different chinese companies| Machine learning data collection | 02.2022-06.2024 | Google Sheets, Excel, Audacity, Adobe Audition |
