@@ -21,4 +21,4 @@
 |:---------------------|:-----------------|:----------------------------|:------------------|:------------------|
 | Process Support Specialist | Yandex Crowd           |Project support service | 06.2024 - present | Python, DataLens, Excel, YQL |
 | Engineer geologist| PK i BZ| Engineering surveys | 02.2021 - 06.2024 | Microsoft Office, ArcGIS, AutoCAD, QGIS |
-| Project manager| Different chinese companies| Machine learning data collection | 02.2022-06.2024 | Google Sheets, Excel, Audacity, Adobe Audition |
+| Project manager| Different chinese companies| Machine learning data collection | 01.2018-12.2023 | Google Sheets, Excel, Audacity, Adobe Audition |
